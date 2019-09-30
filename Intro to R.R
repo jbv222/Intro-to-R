@@ -1,5 +1,11 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
+# R script to accompany Intro to R
+
+# Written by John B. Verity
+
+# Copy for jbv222
+
+# Customized by jbv222
+
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
