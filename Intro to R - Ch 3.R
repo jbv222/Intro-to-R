@@ -5,3 +5,6 @@
 
 # Still nothing to see here
 
+X <- 35
+Y <- 25
+Z <- 9999999

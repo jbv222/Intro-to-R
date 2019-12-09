@@ -11,8 +11,8 @@ x = 7
 # Use better assignment operator
 y <- 8
 
-# Using "=" for all things
-relationship = lm(formula=y~x)
+# Using "<-" for all things
+relationship <- lm(formula=y~x)
 
 # Using "<-" for assignment
 relationship <- lm(formula=y~x)
@@ -234,8 +234,8 @@ x <- 10:1
 y <- -4:5
 z <- c('Hockey', 'Football', 'Curling', 'Soccer', 'Rugby', 'Baseball', 'Golf', 'Basketball', 'Wrestling', 'Tennis')
 theDF <- data.frame(x,y,z)
-theDF
 
+theDF
 str(theDF)
 
 theDF[1,2]
